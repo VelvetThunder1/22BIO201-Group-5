@@ -1,6 +1,6 @@
 ## AI Based Pathway Analysis for understanding Disease Mechanisms
 
-## Group 5 Members
+### Group 5 Members
 
 Jayan Subramanian - CB.SC.U4AIE23033
 
